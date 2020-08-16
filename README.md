@@ -13,3 +13,6 @@ You can use straight to the virtualenv because i push it too, <br>
 **`python manage.py runserver`** <br>
 ## Source Code Branch is on "src" branch
 If you only want to see the source code, there you go.
+## Deployment
+You can see the live demo on [SINAU](https://sinau-webapp.herokuapp.com/).
+
