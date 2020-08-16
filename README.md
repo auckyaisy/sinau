@@ -14,5 +14,5 @@ You can use straight to the virtualenv because i push it too, <br>
 ## Source Code Branch is on "src" branch
 If you only want to see the source code, there you go.
 ## Deployment
-You can see the live demo on [SINAU](https://sinau-webapp.herokuapp.com/).
+You can see the live demo on [here](https://sinau-webapp.herokuapp.com/).
 
