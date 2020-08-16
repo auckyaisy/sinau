@@ -3,3 +3,8 @@
 ## Default Superuser
 username: **admin**<br>
 password: **admin**
+## ps
+You use straight to the virtualenv because i push it too, <br>
+**`source bin/activate`** <br>
+**`cd src`** <br>
+**`python manage.py runserver`** <br>
