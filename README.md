@@ -7,4 +7,6 @@ password: **admin**
 You can use straight to the virtualenv because i push it too, <br>
 **`source bin/activate`** <br>
 **`cd src`** <br>
+**`sudo docker run -p 6379:6379 -d redis:5`**  <br>
 **`python manage.py runserver`** <br>
+
